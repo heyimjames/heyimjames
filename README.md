@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.jamesfrewin.com">Website</a> 路 
-  <a href="https://x.com/heyimjames">X</a> 路 
+  <a href="https://x.com/james_frewin">X</a> 路 
   <a href="https://www.linkedin.com/in/jamesfrewin">LinkedIn</a>
 </p>
 
@@ -137,5 +137,5 @@ Leeds United fan 路 Learning Portuguese 路 Making the most of Lisbon sunshine 鈽
 I work best with forward-thinking teams building at the edge of what's possible. People who care deeply about craft and aren't afraid to move fast.
 
 [![Website](https://img.shields.io/badge/jamesfrewin.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://www.jamesfrewin.com)
-[![Twitter](https://img.shields.io/badge/@heyimjames-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyimjames)
+[![Twitter](https://img.shields.io/badge/@james__frewin-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/james_frewin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesfrewin)
